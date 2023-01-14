@@ -1,4 +1,6 @@
 # blog-ruby
-my blog written by ruby which host in https://chenjun305.github.io/
+my blog written by ruby/jekyll
 
-run command: bundle exec jekyll serve --livereload
+command: 
+    bundle install
+    bundle exec jekyll serve 
