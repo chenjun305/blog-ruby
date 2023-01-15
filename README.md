@@ -1,6 +1,6 @@
 # blog-ruby
-my blog written by ruby/jekyll
+static site written by ruby/jekyll
 
-command: 
+# setup
     bundle install
     bundle exec jekyll serve 
